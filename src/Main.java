@@ -5,9 +5,9 @@ public class Main {
 
     public static void main(String[] args) {
         Student s1 = new Student("Saif", 1367, 3.89);
-        Student s2 = new Student("Arafat", 1000, 3.67);
+        Student s2 = new Student("Saad", 1000, 3.67);
 
-        s1.setName("Rizvi");
+        s1.setName("Nadia");
 
         System.out.println(s1.getName());
         System.out.println(s1.getID());
